@@ -1,1 +1,1 @@
-# C-premier-plus
+本仓库是我学习《C++ Primer Plus》第6版的练习代码，涵盖第2章~第18章，所有代码均在VScode下编译通过
